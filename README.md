@@ -2,31 +2,25 @@
     <a href="https://github.com/Bearlele/nonebot-plugin-rollpig">
         <img src="https://raw.githubusercontent.com/Bearlele/nonebot-plugin-rollpig/refs/heads/main/PigLogo.jpeg" width="310" alt="logo">
     </a>
-    <h2>🐖 nonebot-plugin-rollpig 🐖</h2>
+    🐖 huannai-plugin-rollpig 🐖
     今天是什么小猪 🐽
     本项目基于 Bearlele/nonebot-plugin-rollpig 修改，增添部分新功能
 </div>
 
+
 ### 🐖 食用方法 🐖
-
-环境要求：Python `>=3.10`
-
-使用 pip 安装：
-
-```bash
-pip install -U "git+https://github.com/Felis2026/nonebot-plugin-rollpig.git@felis-dev"
-
-```
-
-或者使用 pip fixed-tag 安装：
-
-```bash
-pip install -U "git+https://github.com/Felis2026/nonebot-plugin-rollpig.git@v0.7.0"
-
-```
-
-或者直接 **Download ZIP**
-
+ 
+1.下载或git clone本插件：
+ 
+在 HoshinoBot\hoshino\modules 目录下使用以下命令拉取本项目
+ 
+git clone https://github.com/SonderXiaoming/huannai-plugin-rollpig
+ 
+2.启用：
+ 
+在 HoshinoBot\hoshino\config\ **bot**.py 文件的 MODULES_ON 加入 'huannai-plugin-rollpig'
+ 
+然后重启 HoshinoBot
 ---
 
 ### 🐷 使用 🐷
